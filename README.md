@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to my profile. 
+## 👋 Hello!
 
 ### My name is Breno Carmo!
 
