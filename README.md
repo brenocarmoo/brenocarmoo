@@ -1,5 +1,6 @@
 ## 👋 Hello! Welcome to my profile. 
-### My name is Breno Carmo and my nickname is "brenocarmoo"!
+
+### My name is Breno Carmo!
 
 I'm currently working as a Shopify developer at Turbo Partners and collaborating on some open source projects.
 
